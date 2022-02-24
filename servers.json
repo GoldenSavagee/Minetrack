@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Rede Dark",
+		"ip": "rededark.com",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "Mush MC",
+		"ip": "mushmc.com",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Flame MC",
+		"ip": "flamemc.com.br",
 		"type": "PC"
 	}
 ]
